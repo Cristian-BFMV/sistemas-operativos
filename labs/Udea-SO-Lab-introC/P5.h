@@ -1,0 +1,1 @@
+double serieP5(double x, double n);
